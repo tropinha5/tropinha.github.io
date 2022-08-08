@@ -50,9 +50,9 @@ header {
 header div.container {justify-content: space-between !important; align-items: center}
 
 .logo {
-    width: 90px;
-    height: 90px;
-    flex: 0 1 90px;
+    width: 100px;
+    height: 100px;
+    flex: 0 1 100px;
 }
 
 nav {flex: 0 1 700px;}
@@ -107,8 +107,8 @@ section.lista {
 }
 
 .item {
-    flex: 0 1 300px;
-    height: 300px;
+    flex: 0 1 350px;
+    height: 350px;
     margin: 15px;
     background-color: #FFF;
     box-shadow: 15px 15px 15px 0px rgba(0, 0, 0, .1);
