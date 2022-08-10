@@ -147,12 +147,12 @@ h1.nome::after {
     width: 400px;
     height: 400px;
     margin: 0 auto;
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 .foto img {
     margin: 0 auto;
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 p.paragrafo + p.paragrafo {margin: 15px 0;}
